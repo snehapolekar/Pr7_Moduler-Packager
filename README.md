@@ -177,7 +177,7 @@ Its modular design makes the project **organized, reusable, easy to understand a
 
 ---
 
-## 👩‍💻 Connect with me :
+# 👩‍💻 Connect with me :
 
 
 Linkedin id : www.linkedin.com/in/sneha-polekar-1a8022415
