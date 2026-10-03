@@ -177,6 +177,10 @@ Its modular design makes the project **organized, reusable, easy to understand a
 
 ---
 
+## Explanation video :
+
+https://drive.google.com/file/d/1qY_54iRaKXq5PBxsWoel1CcE3laP-Iob/view?usp=sharing
+
 # 👩‍💻 Connect with me :
 
 
